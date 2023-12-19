@@ -10,6 +10,8 @@ I'm a passionate full-stack developer with expertise in React.js and Spring Boot
 - Version Control: Git, GitHub
 - Deployment: Heroku, AWS
 
+  ## ![Profile Views](https://profile-counter.glitch.me/your-username/count.svg)
+
 ## 🚀 Projects
 
 - [Project Name](Link to the project repository) - Brief description.
