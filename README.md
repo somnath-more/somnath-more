@@ -9,7 +9,7 @@ I'm a passionate full-stack developer with expertise in React.js and Spring Boot
 - Database: MySQL, HiberNate
 - Version Control: Git, GitHub
 
-- Profile Views : ![Profile Views](https://profile-counter.glitch.me/somnath-more/count.svg)
+## Profile Views : ![Profile Views](https://profile-counter.glitch.me/somnath-more/count.svg)
 
 ## 🚀 Projects
 
@@ -29,6 +29,9 @@ Feel free to reach out if you have any questions, want to collaborate, or just c
 
 ## Top Languages
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=somnath-more&layout=compact)
+
+## Top Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=somnath-more&show_icons=true)
 
 ## 📫 Let's Connect
 
