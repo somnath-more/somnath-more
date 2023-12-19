@@ -34,7 +34,11 @@ Feel free to reach out if you have any questions, want to collaborate, or just c
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=somnath-more)
 
 ## Top Tools
-![Top Tools](https://github-readme-stats.vercel.app/api/toolbox/somnath-more)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 ## 📫 Let's Connect
 
