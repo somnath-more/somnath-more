@@ -33,8 +33,6 @@ Feel free to reach out if you have any questions, want to collaborate, or just c
 ## Github Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=somnath-more)
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somnath-more&layout=compact)
 ## Top Tools
 ![Top Tools](https://github-readme-stats.vercel.app/api/toolbox/somnath-more)
 
