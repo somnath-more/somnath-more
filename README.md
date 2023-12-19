@@ -30,7 +30,8 @@ Feel free to reach out if you have any questions, want to collaborate, or just c
 ## Top Languages
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=somnath-more&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username)
+## Github Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=somnath-more)
 
 ## 📫 Let's Connect
 
