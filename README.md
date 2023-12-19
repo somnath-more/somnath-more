@@ -4,13 +4,12 @@ I'm a passionate full-stack developer with expertise in React.js and Spring Boot
 
 ## 💻 Technologies & Tools
 
-- Frontend: React.js, JavaScript, HTML, CSS
-- Backend: Spring Boot, Java
-- Database: MySQL, MongoDB
+- Frontend: React.js, JavaScript, HTML, CSS ,Tailwind
+- Backend: Spring Boot, Java ,Microservices ,GraphQl
+- Database: MySQL, HiberNate
 - Version Control: Git, GitHub
-- Deployment: Heroku, AWS
 
-  ## ![Profile Views](https://profile-counter.glitch.me/your-username/count.svg)
+- ![Profile Views](https://profile-counter.glitch.me/your-username/count.svg)
 
 ## 🚀 Projects
 
