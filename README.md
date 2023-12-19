@@ -13,8 +13,8 @@ I'm a passionate full-stack developer with expertise in React.js and Spring Boot
 
 ## 🚀 Projects
 
-- [Project Name](Link to the project repository) - Brief description.
-- [Another Project](Link to another project repository) - Short overview.
+- [My Portfolio](https://smore83.github.io/somnath_Profile/)
+- 
 
 ## 🌱 I'm Currently Learning
 
@@ -30,6 +30,7 @@ Feel free to reach out if you have any questions, want to collaborate, or just c
 ## Top Languages
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=somnath-more&layout=compact)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username)
 
 ## 📫 Let's Connect
 
