@@ -30,9 +30,6 @@ Feel free to reach out if you have any questions, want to collaborate, or just c
 ## Top Languages
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=somnath-more&layout=compact)
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=somnath-more&show_icons=true)
-
 ## 📫 Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/somnathmore83/
