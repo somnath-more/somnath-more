@@ -9,7 +9,7 @@ I'm a passionate full-stack developer with expertise in React.js and Spring Boot
 - Database: MySQL, HiberNate
 - Version Control: Git, GitHub
 
--Profile Views : ![Profile Views](https://profile-counter.glitch.me/your-username/count.svg)
+- Profile Views : ![Profile Views](https://profile-counter.glitch.me/somnath-more/count.svg)
 
 ## 🚀 Projects
 
@@ -20,10 +20,6 @@ I'm a passionate full-stack developer with expertise in React.js and Spring Boot
 
 I'm always eager to learn and explore new technologies. Currently, I'm focusing on improving my skills in Master In Full Stack Developer.
 
-## 📫 Let's Connect
-
-- LinkedIn: [https://www.linkedin.com/in/somnathmore83/]
-- Twitter: [https://twitter.com/SOMNATH97953139]
 
 Feel free to reach out if you have any questions, want to collaborate, or just chat about tech!
 
@@ -31,4 +27,13 @@ Feel free to reach out if you have any questions, want to collaborate, or just c
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=somnath-more&count_private=true&show_icons=true&theme=radical)](https://github.com/somnath-more/github-readme-stats)
 
+## Top Languages
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=somnath-more&layout=compact)
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=somnath-more&show_icons=true)
+
+## 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/somnathmore83/
+- Twitter: https://twitter.com/SOMNATH97953139
