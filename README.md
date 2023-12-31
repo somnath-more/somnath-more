@@ -13,7 +13,7 @@ I'm a passionate full-stack developer with expertise in React.js and Spring Boot
 
 ## 🚀 Projects
 
-- [My Portfolio](https://smore83.github.io/somnath_Profile/)
+- [My Portfolio](https://somnath-more.github.io/somnath_Profile/)
 - 
 
 ## 🌱 I'm Currently Learning
