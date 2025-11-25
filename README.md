@@ -1,67 +1,90 @@
-# Hello, I'm Somnath! 👋
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Somnath+👋;Full-Stack+Developer;React.js+%7C+Spring+Boot+%7C+Microservices;I+Build+Scalable+%26+Modern+Web+Apps" alt="Typing SVG" />
+</p>
 
-I'm a passionate full-stack developer with expertise in React.js and Spring Boot. Currently, I'm working on exciting projects that involve building robust web applications.
+<!-- Centered Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
-## 💻 Technologies & Tools
+---
 
-- Frontend: React.js, JavaScript, HTML, CSS ,Tailwind
-- Backend: Spring Boot, Java ,Microservices ,GraphQl
-- Database: MySQL, HiberNate
-- Version Control: Git, GitHub
+## 🧑‍💻 **About Me**
+<p align="center">
+  Passionate Full-Stack Developer crafting scalable, secure, and high-performance applications using  
+  <b>React.js, TypeScript, Spring Boot, Microservices, GraphQL, and MySQL.</b>  
+</p>
 
-## Profile Views : ![Profile Views](https://profile-counter.glitch.me/somnath-more/count.svg)
+---
 
-## 🚀 Projects
+## 🚀 **Skills**
+<p align="center">
 
-- [My Portfolio](https://somnath-portfolio.codemaya.in/)
-- [Travelling Adventure](https://travelleradventure.codemaya.in/)
+### **Frontend**
+React.js • TypeScript • JavaScript • Tailwind CSS
 
-## 🌱 I'm Currently Learning
+### **Backend**
+Spring Boot • Java • Microservices • GraphQL
 
-I'm always eager to learn and explore new technologies. Currently, I'm focusing on improving my skills in Master In Full Stack Developer.
+### **Database**
+MySQL • Hibernate/JPA
 
+### **Tools**
+Git • Docker • Postman • Linux
 
-Feel free to reach out if you have any questions, want to collaborate, or just chat about tech!
+</p>
 
-## 📊 GitHub Stats
+---
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=somnath-more&count_private=true&show_icons=true&theme=radical)](https://github.com/somnath-more/github-readme-stats)
+## 🔥 **GitHub Stats**
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=somnath-more&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somnath-more&layout=compact&theme=tokyonight" />
+</p>
 
-## Top Languages
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=somnath-more&layout=compact)
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=somnath-more&theme=tokyonight" />
+</p>
 
-## Github Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=somnath-more)
+---
 
+## 🌐 **Projects**
+<p align="center">
 
+🔗 <a href="https://somnath-portfolio.codemaya.in/">Portfolio Website</a>  
+🔗 <a href="https://travelleradventure.codemaya.in/">Travel Adventure App</a>  
 
-# Languages and Tools
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+</p>
 
+---
 
-## 📫 Let's Connect
+## 🧰 **Tools & Technologies**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,java,spring,mysql,graphql,git,docker,linux,postman&theme=dark" />
+</p>
 
-- LinkedIn: https://www.linkedin.com/in/somnathmore83/
-- Twitter: https://twitter.com/SOMNATH97953139
+---
+
+## 👀 **Profile Views**
+<p align="center">
+  <img src="https://profile-counter.glitch.me/somnath-more/count.svg" />
+</p>
+
+---
+
+## 🤝 **Connect With Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/somnathmore83/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/SOMNATH97953139">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
+
+---
+<p align="center">🔥 Always building. Always learning. Always improving. 🔥</p>
