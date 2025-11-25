@@ -3,13 +3,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Somnath+👋;Full-Stack+Developer;React.js+%7C+Spring+Boot+%7C+Microservices;I+Build+Scalable+%26+Modern+Web+Apps" alt="Typing SVG" />
 </p>
 
-<!-- Centered Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/SpringBoot-20232A?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+  <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=F89820"/>
 </p>
+
 
 ---
 
