@@ -9,15 +9,20 @@
   <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=F89820"/>
 </p>
+
 ---
+
 ## 🧑‍💻 **About Me**
 <p align="center">
   Passionate Full-Stack Developer crafting scalable, secure, and high-performance applications using  
   <b>React.js, TypeScript, Spring Boot, Microservices, GraphQL, and MySQL.</b>  
 </p>
+
 ---
+
 ## 🚀 **Skills**
 <p align="center">
+  
 ### **Frontend**
 React.js • TypeScript • JavaScript • Tailwind CSS
 ### **Backend**
@@ -26,8 +31,11 @@ Spring Boot • Java • Microservices • GraphQL
 MySQL • Hibernate/JPA
 ### **Tools**
 Git • Docker • Postman • Linux
+
 </p>
+
 ---
+
 ## 🔥 **GitHub Stats**
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=somnath-more&show_icons=true&theme=tokyonight" />
